@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465904335 source:c:\users\user\downloads\proiect 2016\main.cpp
+	<iostream>
+	<cstdlib>
+	<climits>
+	<math.h>
+	<string>
+
+1494861185 source:d:\proiect 2016\main.cpp
+	<iostream>
+	<cstdlib>
+	<climits>
+	<math.h>
+	<string>
+
